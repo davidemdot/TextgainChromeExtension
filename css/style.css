@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,700');
+
+body {
+  font-family: "Roboto", "Helvetica", Arial, sans-serif;
+  font-size: 14px;
+  font-weight: 300;
+  line-height: 1.2em;
+  min-width: 225px;
+}
+
+a {
+  color: #000;
+  text-decoration: none;
+}
+
+a:hover,
+a:active {
+  color: #004466;
+}
+
+div {
+  margin-top: 15px;
+}
+
+img {
+  display: block;
+  margin: 20px auto;
+}
+
+.red {
+  color: #b33a3a;
+}
+
+.title {
+  font-weight: 700;
+  text-transform: capitalize;
+}
